@@ -144,7 +144,7 @@ h1 {
 
 h2 {
 	padding-top: 0.8em;
-	font-size: 125%;
+	font-size: 135%;
 }
 
 h2 + h3 {
@@ -152,7 +152,7 @@ h2 + h3 {
 }
 
 h3 {
-	font-size: 110%;
+	font-size: 120%;
 	border-bottom: none;
 }
 
@@ -169,7 +169,7 @@ pre {
 }
 
 div#footer {
-	font-size: small;
+	font-size: medium;
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
 	margin-top: 2.0em;
